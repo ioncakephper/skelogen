@@ -9,9 +9,26 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx --fix",
     "precommit": "npm run docs && npm run lint && npm run format"
   },
-  "keywords": [],
+  "keywords": [
+    "cli",
+    "scaffolding",
+    "generator",
+    "automation",
+    "boilerplate",
+    "project-generator",
+    "project-setup",
+    "development-tools",
+    "nodejs",
+    "npm",
+    "javascript",
+    "typescript",
+    "command-line",
+    "productivity",
+    "developer-tools",
+    "template"
+  ],
   "author": "ioncakephper",
-  "description": "",
+  "description": "A CLI tool to automate project scaffolding. Generate consistent structures, configurations, and documentation to streamline setup.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ioncakephper/skelogen.git"
