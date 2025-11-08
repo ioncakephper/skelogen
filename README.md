@@ -52,21 +52,21 @@ Follow the interactive prompts to configure your new project.
 
 ### Available Scripts
 
-This project includes several utility scripts to aid in development, testing, and maintenance. For a comprehensive list and description of all available scripts, please refer to the [SCRIPTS.md](SCRIPTS.md) file.
+This project includes several utility scripts to aid in development, testing, and maintenance. For a comprehensive list and description of all available scripts, please refer to the [SCRIPTS](SCRIPTS.md) file.
 
 ### Project Structure
 
-To understand the layout and organization of this project, please consult the [PROJECT_STRUCTURE.md](PROJECT_STRUCTURE.md) file.
+To understand the layout and organization of this project, please consult the [PROJECT_STRUCTURE](PROJECT_STRUCTURE.md) file.
 
 ### Dependencies
 
-For a detailed list of project dependencies and their purposes, please refer to the [DEPENDENCIES.md](DEPENDENCIES.md) file.
+For a detailed list of project dependencies and their purposes, please refer to the [DEPENDENCIES](DEPENDENCIES.md) file.
 
 ## Contribution & Governance
 
 We welcome and encourage contributions to `skelogen`. To ensure a collaborative and respectful environment, please review our guidelines:
 
-- **Contributing:** Detailed instructions on how to contribute, including development workflows, testing procedures, and submission guidelines. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
+- **Contributing:** Detailed instructions on how to contribute, including development workflows, testing procedures, and submission guidelines. Please refer to [CONTRIBUTING](CONTRIBUTING.md).
 - **Code of Conduct:** Our commitment to fostering an open and inclusive community. All participants are expected to adhere to the principles outlined in our [Code of Conduct](RULES_OF_CONDUCT.md).
 
 ## License
