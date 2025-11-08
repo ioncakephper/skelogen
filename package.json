@@ -1,0 +1,29 @@
+{
+  "name": "skelogen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --passWithNoTests",
+    "docs": "npx markdown-magic@3.7.0 **/*.md -c md.config.js",
+    "format": "prettier --write .",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx --fix",
+    "precommit": "npm run docs && npm run lint && npm run format"
+  },
+  "keywords": [],
+  "author": "ioncakephper",
+  "description": "",
+  "licence": "MIT",
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "eslint": "^9.39.1",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.4",
+    "globals": "^16.5.0",
+    "jest": "^30.2.0",
+    "markdown-magic-scripts": "^1.4.0",
+    "markdown-magic-transform-acknowledgements": "^1.2.2",
+    "markdown-magic-transform-badges": "^1.4.0",
+    "markdown-magic-transform-treefile-extended": "^1.2.1",
+    "prettier": "^3.6.2"
+  }
+}
