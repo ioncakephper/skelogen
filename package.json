@@ -12,6 +12,14 @@
   "keywords": [],
   "author": "ioncakephper",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioncakephper/skelogen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ioncakephper/skelogen/issues"
+  },
+  "homepage": "https://github.com/ioncakephper/skelogen#readme",
   "licence": "MIT",
   "devDependencies": {
     "@eslint/js": "^9.39.1",

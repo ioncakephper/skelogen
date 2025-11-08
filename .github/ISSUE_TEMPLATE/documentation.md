@@ -1,9 +1,9 @@
 ---
 name: Documentation
 about: Suggest improvements or additions to the documentation
-title: "[Docs]: "
-labels: ["documentation", "triage"]
-assignees: ""
+title: '[Docs]: '
+labels: ['documentation', 'triage']
+assignees: ''
 ---
 
 **What part of the documentation needs improvement?**
