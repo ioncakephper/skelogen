@@ -23,8 +23,8 @@
 
 ## Package and Repository Discoverability
 
-- [X] **`package.json` keywords:** Create or update the `keywords` section in `package.json` to increase the package's visibility on npmjs.
+- [x] **`package.json` keywords:** Create or update the `keywords` section in `package.json` to increase the package's visibility on npmjs.
 
-- [X] **GitHub Repository "About" section:** Create text for the "About" section (description) of the GitHub repository to increase discoverability. Limit the description to 160 characters (GitHub's current limit). Additionally, create and update the Topics list, limiting to 20 topics (GitHub's current limit)
+- [x] **GitHub Repository "About" section:** Create text for the "About" section (description) of the GitHub repository to increase discoverability. Limit the description to 160 characters (GitHub's current limit). Additionally, create and update the Topics list, limiting to 20 topics (GitHub's current limit)
 
 - [x] **`package.json` description:** Update the `description` property in `package.json` to accurately reflect the package. Limit this description according to best practices and common usage for GitHub and npmjs.

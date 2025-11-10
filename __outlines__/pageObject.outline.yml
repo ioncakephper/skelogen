@@ -1,0 +1,10 @@
+sidebars:
+  - id: page-object-example
+    label: Page Object Example
+    items:
+      - label: 'My Page'
+        id: my-page
+        headings:
+          - 'Introduction'
+          - 'Main Content'
+          - 'Conclusion'

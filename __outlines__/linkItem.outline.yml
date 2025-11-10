@@ -1,0 +1,8 @@
+sidebars:
+  - id: link-item-example
+    label: Link Item Example
+    items:
+      - label: 'External Link'
+        href: 'https://example.com'
+      - label: 'Internal Link'
+        href: '/internal/path'

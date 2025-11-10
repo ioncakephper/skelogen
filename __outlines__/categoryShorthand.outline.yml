@@ -1,0 +1,7 @@
+sidebars:
+  - id: category-shorthand-example
+    label: Category Shorthand Example
+    items:
+      - 'Category Label':
+          - 'page-1'
+          - 'page-2'

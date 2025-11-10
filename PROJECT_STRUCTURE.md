@@ -3,6 +3,7 @@
 This document provides an overview of the project's directory and file structure, helping contributors and users navigate the codebase.
 
 <!-- doc-gen STRUCTURE -->
+
 ```
 /
 ├── .qodo
@@ -25,4 +26,5 @@ This document provides an overview of the project's directory and file structure
 ├── SCRIPTS.md
 └── TODO.md
 ```
+
 <!-- end-doc-gen -->

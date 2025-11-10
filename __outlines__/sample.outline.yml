@@ -1,0 +1,24 @@
+sidebars:
+  - label: Documentation
+  - 'Shorthand Sidebar Item':
+      - 'Page Label Shortcut'
+      - label: Object page Object
+      - label: Page Object with headings
+        headings:
+          - 'First heading':
+              - 'Second heading'
+          - label: Third heading
+            items:
+              - 'Fourth heading'
+              - label: Fifth heading
+      - 'Category shorthand':
+          'Subcategory':
+            - 'Subpage'
+            - label: Subcategory page Object
+      - label: Category page Object
+        items:
+          - 'Subpage'
+          - label: Subcategory page Object
+            items:
+              - 'Subsubpage'
+              - label: Subsubcategory page Object

@@ -1,0 +1,9 @@
+sidebars:
+  - id: category-object-example
+    label: Category Object Example
+    items:
+      - label: 'My Category'
+        id: my-category
+        items:
+          - 'page-a'
+          - 'page-b'

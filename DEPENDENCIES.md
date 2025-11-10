@@ -3,6 +3,7 @@
 This document lists and describes the external libraries and packages that this project depends on.
 
 <!-- doc-gen DEPENDENCIES format=list -->
+
 - [@eslint/js](https://www.npmjs.com/package/%40eslint%2Fjs) — ESLint JavaScript language implementation
 - [eslint](https://www.npmjs.com/package/eslint) — An AST-based pattern checker for JavaScript.
 - [eslint-config-prettier](https://www.npmjs.com/package/eslint-config-prettier) — Turns off all rules that are unnecessary or might conflict with Prettier.

@@ -1,0 +1,19 @@
+sidebars:
+  - id: headings-example
+    label: Headings Example
+    items:
+      - label: 'Page with Headings'
+        id: page-with-headings
+        headings:
+          - 'Simple Heading'
+          - id: heading-with-id
+            label: 'Heading with ID'
+          - 'Heading with Sub-items':
+              - 'Sub-item 1'
+              - id: sub-item-2
+                label: 'Sub-item 2'
+          - id: heading-with-nested
+            label: 'Heading with Nested Items'
+            items:
+              - 'Nested 1'
+              - 'Nested 2'

@@ -1,8 +1,8 @@
 name: Bug Report
 description: Report a reproducible bug or unexpected behavior
-title: "[Bug]: "
-labels: ["bug", "triage"]
-assignees: ""
+title: '[Bug]: '
+labels: ['bug', 'triage']
+assignees: ''
 body:
   - type: markdown
     attributes:

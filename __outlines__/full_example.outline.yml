@@ -1,0 +1,28 @@
+sidebars:
+  - id: documentation
+    label: Documentation
+    items:
+      - 'introduction'
+      - 'getting-started'
+      - label: 'Core Concepts'
+        id: core-concepts
+        items:
+          - 'concepts/first'
+          - 'concepts/second'
+      - 'Advanced Features':
+          - 'advanced/feature-a'
+          - 'advanced/feature-b'
+      - label: 'Community'
+        href: 'https://example.com/community'
+      - label: 'About'
+        id: about
+        headings:
+          - 'Our Mission'
+          - 'Our Team':
+              - 'John Doe'
+              - 'Jane Smith'
+          - id: contact
+            label: 'Contact Us'
+            items:
+              - 'Email'
+              - 'Phone'
